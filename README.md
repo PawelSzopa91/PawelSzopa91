@@ -1,4 +1,8 @@
-# Hola! I'm Pawel Szopa 👋
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Pawel2704" alt="Pawel2704" /> </h3>
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<h1 align="center">
+I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Pawel Szopa</a> 👋
+</h1> 
 
 ## 📊 Data Analyst | Logistics & E-commerce Operations Specialist
 
