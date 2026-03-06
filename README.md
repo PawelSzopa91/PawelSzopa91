@@ -23,7 +23,7 @@ My professional journey evolved from managing e-commerce sales and market trends
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[E-Commerence Shop- data from Kaggle - Olist SQL Analysis](https://github.com/PawelSzopa91/olist-sql-analysis)** | End-to-end logistics & revenue audit for Brazilian e-commerce. | `SQL` `PostgreSQL` |
+| **[E-Commerce Shop- data from Kaggle - Olist SQL Analysis](https://github.com/PawelSzopa91/olist-sql-analysis)** | End-to-end logistics & revenue audit for Brazilian e-commerce. | `SQL` `PostgreSQL` |
 | **[Cyclistic Case Study](https://github.com/PawelSzopa91/Google-Data-Analytics-Case-Study-How-Does-A-Bike-Share-Navigate-Speedy-Success-)** | Analysis of bike-share trends to maximize annual memberships. | `R` `Tableau` |
 | **[Bellabeat Wellness](https://github.com/PawelSzopa91/Google-Data-Analytics-Capstone-2-How-Can-Bellabeat-A-Wellness-Technology-Company-Play-It-Smart-)** | Marketing strategy based on smart device fitness data. | `R` `Power BI` |
 
