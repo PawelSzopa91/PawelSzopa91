@@ -4,13 +4,9 @@
 I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Pawel Szopa</a> 👋
 </h1> 
 
-## 📊 Data Analyst | Logistics & E-commerce Operations Specialist
+## 📊 Data Analyst
 
-My journey into Data Analytics has been a path of continuous growth, driven by real-world business challenges across three different countries:
-
-* **The Polish Foundations (Jeger & Entrepreneurship)**: My adventure with data began in Poland at **Jeger**, where I managed an e-commerce platform for decorative paints. This evolved into running my own hospitality business in **Karpacz**, where I took my first deep dive into data-driven management. I independently handled market research, competitor analysis, and logistics, while creating custom visualizations to track **KPIs**, demand trends, and occupancy peaks.
-* **International Pivot (Netherlands & Germany)**: Seeking new challenges during the pandemic, I moved to the Netherlands for a logistics center internship, gaining a solid office-based foundation in supply chain operations. This experience paved the way for my transition to Germany, where I completed data analytics internships at **DHL & Deutsche Post**.
-* **Current Professional Focus**: Today, I work as a **Data Analyst in Germany**, specializing in translating complex operational data into strategic insights. Having mastered the tools in high-pressure global environments, I am now looking to transition my international expertise into a **100% remote** role.
+My approach to data analytics is driven by a clear objective: transforming raw information into actionable business insights and measurable growth. My background, spanning operational management and entrepreneurship, allows me to look beyond the code and view data through the lens of its market value and strategic impact.
 
 ---
 
